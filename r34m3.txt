@@ -1,0 +1,9 @@
+Step 1: git init
+-> Khởi tạo repo
+
+Step 2: git checkout -b dev
+-> Tạo nhánh mới tên 'dev'
+
+Step 3: Comit code:
+ git add <filename> -> add từng file 
+ git add .          -> add tất cả file
